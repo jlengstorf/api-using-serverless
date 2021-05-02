@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/api/movies/*"
+  to = "/.netlify/functions/movie-by-slug"
+  status = 200
